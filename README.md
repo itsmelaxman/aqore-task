@@ -4,7 +4,7 @@
 
 Aqore is a Flutter-based mobile application designed for small businesses to efficiently manage suppliers, inventory items, purchase orders, and receipts with an offline-first approach using local database storage.
 
-**[⠛ View Architecture Diagrams →](https://docs.google.com/document/d/17vwu6ESzZWiL-7HRcDgAQHpndQv2P5DHOb79lVt6Y_c/edit?usp=sharing)**
+**[⠛ View Architecture Diagrams →](https://drive.google.com/file/d/1bNE2ymfaIycsCecWD_jO11Eg8pkMXzca/view?usp=sharing)**
 
 ---
 
