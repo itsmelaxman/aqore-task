@@ -1,0 +1,54 @@
+name: aqore_app
+description: "A new Flutter project."
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management, DI & Routing
+  get: ^4.6.6
+
+  # Database
+  drift: ^2.20.0
+  sqlite3_flutter_libs: ^0.5.24
+  path_provider: ^2.1.4
+  path: ^1.9.0
+
+  # UI & Theme
+  google_fonts: ^6.2.1
+
+  # Utilities
+  intl: ^0.19.0
+  shared_preferences: ^2.3.4
+  flutter_svg: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+  # Testing
+  mockito: ^5.4.4
+
+  # Code Generation
+  drift_dev: ^2.20.0
+  build_runner: ^2.4.8
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/svg/
+    - assets/svg/icons/
