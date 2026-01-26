@@ -48,7 +48,7 @@ Aqore is a Flutter-based mobile application designed for small businesses to eff
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/itsmelaxman/aqore-task.git
 cd aqore_app
 ```
 
