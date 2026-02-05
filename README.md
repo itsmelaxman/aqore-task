@@ -12,6 +12,62 @@ Aqore is a Flutter-based mobile application designed for small businesses to eff
 
 ---
 
+> Below are real screenshots from the running application demonstrating all major modules and workflows.
+## Application Screenshots (Module-wise)
+
+| Setup Business | Business Info |
+|---------------|-----------------|
+| <img src="demo/setup-business-1.jpg" width="250px"> | <img src="demo/business-setup-2.jpg" width="250px"> |
+
+---
+
+### Supplier Management
+| Supplier Initial | Suppleir List | Add Supplier | Edit Supplier |
+|--------------|--------------|---------------|---------------|
+| <img src="demo/supplier-1.jpg" width="250px"> | <img src="demo/supplier-4.jpg" width="250px"> | <img src="demo/add-supplier-2.jpg" width="250px"> | <img src="demo/add-supplier-3.jpg" width="250px"> |
+
+| Supplier Details | Additional Suppliers | Delete Supplier |
+|-----------------|----------------|----------------|
+| <img src="demo/supplier-6.jpg" width="250px"> | <img src="demo/supplier-5.jpg" width="250px"> | <img src="demo/supplier-delete.jpg" width="250px"> |
+
+---
+
+### Inventory / Item Management
+| Item Initial | Add Item | Item List | Item Details |
+|----------|----------|--------------|--------------|
+| <img src="demo/item-1.jpg" width="250px"> | <img src="demo/add-item-2.jpg" width="250px"> | <img src="demo/item-3.jpg" width="250px">| <img src="demo/item-5.jpg" width="250px"> |
+
+| Item Delete | 
+|-------------|
+| <img src="demo/item-4.jpg" width="250px"> |
+
+---
+
+### Purchase Order Management
+| Order List | Create Order | Order Items |
+|-----------|--------------|-------------|
+| <img src="demo/order-1.jpg" width="250px"> | <img src="demo/order-2.jpg" width="250px"> | <img src="demo/order-3.jpg" width="250px"> |
+
+| Order List | Order Detail |
+|--------------|--------------|
+| <img src="demo/order-4.jpg" width="250px"> | <img src="demo/order-5.jpg" width="250px"> |
+
+---
+
+### Receipt Generation
+| Receipt Initial | Generate Receipt | Receipt List | Receipt Detail |
+|-------------|------------------|----------------|----------------|
+| <img src="demo/receipt-1.jpg" width="250px"> | <img src="demo/receipt-3.jpg" width="250px"> | <img src="demo/receipt-4.jpg" width="250px"> | <img src="demo/receipt-5.jpg" width="250px"> |
+
+---
+
+### Settings
+| Settings | Preferences |
+|---------|-------------|
+| <img src="demo/setting-1.jpg" width="250px"> | <img src="demo/setting-2.jpg" width="250px"> |
+
+---
+
 ## Hardware Requirements
 
 ### Minimum Requirements
