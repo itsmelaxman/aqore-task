@@ -1,3 +1,7 @@
+> 📌 **Note**  
+> This repository contains a **fully working Flutter assessment task for Aqore Software Pvt. Ltd.**  
+> The project implements the complete **Inventory & Order Management Application** as described in the task requirements, including full CRUD operations, offline-first database storage, and receipt generation logic.
+
 # Aqore Mobile App Documentation
 
 ## Overview
